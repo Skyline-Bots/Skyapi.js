@@ -1,0 +1,38 @@
+{
+  "name": "skyapi.js",
+  "version": "1.0.0",
+  "description": "An NPM package used to interact with the Skyline Bots API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshiboi18303/Skypi.js.git"
+  },
+  "keywords": [
+    "Skyline",
+    "Discord",
+    "Bots",
+    "API",
+    "Discord-Bots",
+    "dbl-api"
+  ],
+  "authors": [
+    "Yoshiboi18303",
+    "FHGDev"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshiboi18303/Skypi.js/issues"
+  },
+  "homepage": "https://github.com/Yoshiboi18303/Skypi.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "discord.js": "^12.5.3",
+    "@types/node-fetch": "^2.5.12"
+  }
+}
